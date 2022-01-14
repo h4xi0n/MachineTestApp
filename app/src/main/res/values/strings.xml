@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Machine Test App</string>
+    <string name="main_register">Register</string>
+    <string name="main_login">Login</string>
+
+    <string name="home_welcome">Hello, Welcome to machinetest app created by Arun Krishnan</string>
+    <string name="home_logout">Logout</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="location_unknown">Location unknown</string>
+    <string name="location_updates_label">Location Updates</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="request_location_updates">Request location updates</string>
+    <string name="remove_location_updates">Remove location updates</string>
+    <string name="Locate">Locate</string>
+    <string name="location_updated">Location Updated: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="register_fragment_name">Name</string>
+    <string name="register_fragment_email">Email</string>
+    <string name="register_fragment_password">Password</string>
+    <string name="register_fragment_password_again">Re-enter Password</string>
+    <string name="register_fragment_register_button">Register Now</string>
+    <string name="register_fragment_back">Back</string>
+
+    <string name="login_fragment_email">Email</string>
+    <string name="login_fragment_password">Password</string>
+    <string name="login_fragment_login_button">Login</string>
+    <string name="login_fragment_register_button">Register</string>
+
+    <string name="main_activity_logout">Logout</string>
+    <string name="welcome_message">Welcome, </string>
+</resources>
